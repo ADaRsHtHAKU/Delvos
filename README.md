@@ -28,19 +28,33 @@ Explore the live version of the website to see it in action.
 ## 📁 File Structure
 
 delvos-repo/
+
 ├── assets/
+
 │   ├── css/
+
 │   │   └── styles.css
+
 │   ├── images/
+
 │   │   ├── about-us.jpg
+
 │   │   ├── blog-1.jpg
+
 │   │   ├── blog-2.jpg
+
 │   │   ├── blog-3.jpg
+
 │   │   └── favicon.ico
+
 │   └── js/
+
 │       └── script.js
+
 ├── blog.html
+
 ├── index.html
+
 └── README.md
 
 ## 💻 Getting Started
