@@ -1,4 +1,3 @@
-# Delvos
 # Delvos - Premium Real Estate Website
 
 A modern, elegant, and responsive website template for a premium real estate and property development company. This static website showcases luxury properties, features a blog, and includes a functional contact form simulation.
